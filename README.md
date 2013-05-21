@@ -38,7 +38,7 @@ and you're all like...
 
 This is where we make those mistakes ... so don't be scared :)
 
-##Instructions
+##Instructions (Contributing)
 
 Fork this repo and send me a Pull Request with anything from Grandma Peggy's
 Crumbled Oatmeal Cookie Recipe to your favorite Sublime Text 2 preferences.
@@ -240,3 +240,14 @@ Won't be deleted from your file system just keeps the local changes still
  * Set up and deploy to Heroku.
 
 **Enjoy**
+
+3. Push it back to Github.
+
+== DISCUSSION
+
+If you have questions, please use this [Linkedin group](http://www.linkedin.com/groups/Atlanta-Ruby-Users-Group-106945/about)
+
+== License
+
+This repo is released under the MIT License. http://www.opensource.org/licenses/mit-license
+
