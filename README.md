@@ -16,10 +16,12 @@
 * Git Immersion [http://gitimmersion.com](http://gitimmersion.com)
 
 My References:
+ * http://pcottle.github.io/learnGitBranching
  * http://net.tutsplus.com/articles/general/team-collaboration-with-github
  * https://github.com/GarageGames/Torque2D/wiki/Pull-Requests-Coding-Standards
  * https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices
  * http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github
+ * http://blog.8thcolor.com/2013/05/git-tips-and-tricks-2
 
 Welcome to my practice git repository where you can change up as much as
 you'd like plus work with a real, living, breathing person on the other side.
