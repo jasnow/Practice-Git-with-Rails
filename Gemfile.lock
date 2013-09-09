@@ -52,7 +52,7 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.25)
-    multi_json (1.7.9)
+    multi_json (1.8.0)
     parallel (0.8.0)
     polyglot (0.3.3)
     rack (1.4.5)
