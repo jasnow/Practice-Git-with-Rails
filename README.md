@@ -1,4 +1,4 @@
-:octocat: Git Your Practice On with Rails!
+Git Your Practice On with Rails!
 ============
 
 ** Please do not change the database from sqlite3 in dev/test.**
