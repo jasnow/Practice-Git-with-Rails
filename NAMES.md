@@ -5,5 +5,5 @@ Names
 * Chase Pursley
 * Jordan Streiff
 * Denzel Pressey
-
+* Sylvester Willis
 
