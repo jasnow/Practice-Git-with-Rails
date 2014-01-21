@@ -1,2 +1,2 @@
-rvm use 2.1.0@practice --create
+rvm use 2.0.0@practice --create
 
