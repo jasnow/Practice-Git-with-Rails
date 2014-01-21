@@ -15,6 +15,10 @@ group :assets do
   gem 'uglifier'
 end
 
+group :development do
+  gem 'codesake-dawn', :require=>false
+end
+
 gem 'jquery-rails'
 
 gem 'cane'
