@@ -134,7 +134,7 @@ GEM
       mime-types (>= 1.16)
     ruby_parser (3.4.1)
       sexp_processor (~> 4.1)
-    sass (3.2.14)
+    sass (3.3.2)
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
       sass (>= 3.1.10)
