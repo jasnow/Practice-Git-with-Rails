@@ -29,7 +29,7 @@ GEM
       tzinfo (~> 1.1)
     arel (5.0.0)
     ast (1.1.0)
-    atomic (1.1.15)
+    atomic (1.1.16)
     builder (3.2.2)
     cane (2.6.1)
       parallel
@@ -37,7 +37,7 @@ GEM
       mechanize
       nokogiri
       rainbow (~> 2.0.0)
-    codesake-dawn (1.0.4)
+    codesake-dawn (1.0.5)
       codesake-commons (~> 0.95.0)
       coveralls
       cvss
@@ -97,7 +97,7 @@ GEM
     mime-types (1.25.1)
     mini_portile (0.5.2)
     minitest (5.3.1)
-    multi_json (1.9.0)
+    multi_json (1.9.2)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
     nokogiri (1.6.1)
@@ -164,7 +164,7 @@ GEM
     thread_safe (0.2.0)
       atomic (>= 1.1.7, < 2)
     tilt (1.4.1)
-    tins (1.0.0)
+    tins (1.0.1)
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
