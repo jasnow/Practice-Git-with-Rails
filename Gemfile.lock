@@ -36,7 +36,7 @@ GEM
       mechanize
       nokogiri
       rainbow (~> 2.0.0)
-    codesake-dawn (1.1.1)
+    codesake-dawn (1.1.2)
       codesake-commons (~> 0.95.0)
       coveralls
       cvss
@@ -127,7 +127,7 @@ GEM
     rake (10.3.1)
     rest-client (1.6.7)
       mime-types (>= 1.16)
-    ruby_parser (3.5.0)
+    ruby_parser (3.6.0)
       sexp_processor (~> 4.1)
     sexp_processor (4.4.3)
     simplecov (0.8.2)
