@@ -60,7 +60,7 @@ GEM
     domain_name (0.5.18)
       unf (>= 0.0.5, < 1.0.0)
     erubis (2.7.0)
-    execjs (2.1.0)
+    execjs (2.2.0)
     ffi (1.9.3)
     grit (2.5.0)
       diff-lcs (~> 1.1)
