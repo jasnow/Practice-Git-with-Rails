@@ -8,3 +8,5 @@ Names
 * Sylvester Willis
 * Developer Ruby Slippers
 * Sam Skinner
+* Joy Learner
+
