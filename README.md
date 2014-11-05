@@ -4,7 +4,7 @@ Git Your Practice On with Rails!
 ** Please do not change the database from sqlite3 in dev/test.**
 
 (originally part of PHP repo: https://github.com/grayghostvisuals/Practice-Git)
- 
+
 * Git Reference [http://gitref.org/basic](http://gitref.org/basic)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
@@ -64,7 +64,7 @@ It's all good yo! Learning is the prize in this game.
 * Tells us what files and assets have been modified and staged
 
 ``git status -s``
-* This will display what files have been removed, changed or modified. 
+* This will display what files have been removed, changed or modified.
 * (M)  - modified
 * (A)  - added
 * (AM) - file has not been altered since it was last added
@@ -107,7 +107,7 @@ It's all good yo! Learning is the prize in this game.
 * Be warned: it's considered bad practice to rebase commits which you have already pushed to a remote repo. Doing so may invoke the wrath of the git gods. [https://help.github.com/articles/interactive-rebase](https://help.github.com/articles/interactive-rebase)
 
 ##Adding
-``git add <list of files>`` 
+``git add <list of files>``
 (i.e. git add read me.md license.txt. Can be multiples)
 
 ``git add --all``
@@ -174,7 +174,7 @@ VI Editor Quick Key Exit
 ``:wq + enter``
 
 ##Pushing &amp; Pulling
-``git push -u origin master (remote repo name, local branch name) -u`` 
+``git push -u origin master (remote repo name, local branch name) -u``
 Lets you just run git push later on without specifying name and branch
 
 ``git pull``
@@ -238,7 +238,7 @@ Won't be deleted from your file system just keeps the local changes still
  * Add .ruby-gemset
  * Remove public/index.html file
  * Add "1 == 1" test.
- * Add "1 == 1" rspec spec. 
+ * Add "1 == 1" rspec spec.
  * Set up and deploy to Heroku.
 
 **Enjoy**
