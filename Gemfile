@@ -8,7 +8,7 @@ gem 'sqlite3'
 gem 'uglifier'
 
 group :development do
-  gem 'dawn', :require=>false
+  gem 'codesake-dawn', :require=>false
 end
 
 gem 'jquery-rails'
