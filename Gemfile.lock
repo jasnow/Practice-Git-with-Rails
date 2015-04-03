@@ -45,7 +45,7 @@ GEM
       mechanize
       nokogiri
       rainbow (~> 2.0.0)
-    coveralls (0.7.12)
+    coveralls (0.8.0)
       multi_json (~> 1.10)
       rest-client (>= 1.6.8, < 2)
       simplecov (~> 0.9.1)
