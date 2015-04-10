@@ -69,7 +69,7 @@ GEM
     domain_name (0.5.23)
       unf (>= 0.0.5, < 1.0.0)
     erubis (2.7.0)
-    execjs (2.5.1)
+    execjs (2.5.2)
     ffi (1.9.8)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
