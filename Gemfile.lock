@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/rest-client/rest-client.git
+  revision: ad1c5db3ac5647a0f09969a42583d23f907c99ab
+  specs:
+    rest-client (2.0.0.alpha)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -145,10 +154,6 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rainbow (2.0.0)
     rake (10.4.2)
-    rest-client (1.8.0)
-      http-cookie (>= 1.0.2, < 2.0)
-      mime-types (>= 1.16, < 3.0)
-      netrc (~> 0.7)
     ruby_parser (3.6.6)
       sexp_processor (~> 4.1)
     sexp_processor (4.5.0)
@@ -191,5 +196,6 @@ DEPENDENCIES
   dawnscanner
   jquery-rails
   rails (= 4.2.1)
+  rest-client!
   sqlite3
   uglifier
