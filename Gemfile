@@ -8,7 +8,7 @@ gem 'sqlite3'
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'
-gem 'rest-client', :git => 'git://github.com/rest-client/rest-client.git'
+gem 'rest-client'
 
 group :development do
   gem 'dawnscanner', :require=>false
