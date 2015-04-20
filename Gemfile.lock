@@ -191,6 +191,6 @@ DEPENDENCIES
   dawnscanner
   jquery-rails
   rails (= 4.2.1)
-  rest-client
+  rest-client (= 1.8.0)
   sqlite3
   uglifier
