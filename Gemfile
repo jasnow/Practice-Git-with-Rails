@@ -8,7 +8,8 @@ gem 'sqlite3'
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'
+gem 'overcommit'
 
 group :development do
-  gem 'dawnscanner', :require=>false
+  gem 'dawnscanner', require: false
 end
