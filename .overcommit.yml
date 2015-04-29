@@ -15,7 +15,6 @@
 #
 # Uncomment the following lines to make the configuration take effect.
 
-
 PreCommit:
   Rubocop:
     enabled: true
