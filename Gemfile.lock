@@ -113,7 +113,7 @@ GEM
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     ntlm-http (0.1.1)
-    overcommit (0.26.0)
+    overcommit (0.27.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     parallel (1.6.0)
