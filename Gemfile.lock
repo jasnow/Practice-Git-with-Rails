@@ -88,7 +88,7 @@ GEM
     json (1.8.3)
     justify (1.0.2)
     logger-colors (1.0.0)
-    loofah (2.0.2)
+    loofah (2.0.3)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
@@ -182,3 +182,6 @@ DEPENDENCIES
   rails (= 4.2.4.rc1)
   sqlite3
   uglifier
+
+BUNDLED WITH
+   1.10.6
