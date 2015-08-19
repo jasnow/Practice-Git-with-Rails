@@ -1,8 +1,8 @@
 language: ruby
 rvm:
-- 2.2.3 --create
+- 2.2.3
 before_script: bundle exec rake db:migrate RAILS_ENV=test
-before_install: gem update bundler
+before_install: gem update bundler ; rvm gemset create Practice-Git-with-Rails
 notifications:
   email:
     recipients:
