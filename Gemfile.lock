@@ -182,6 +182,3 @@ DEPENDENCIES
   rails (= 4.2.4.rc1)
   sqlite3
   uglifier
-
-BUNDLED WITH
-   1.10.6
