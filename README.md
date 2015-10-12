@@ -245,11 +245,11 @@ Won't be deleted from your file system just keeps the local changes still
 
 3. Push it back to Github.
 
-== DISCUSSION
+##DISCUSSION
 
 If you have questions, please use this [Linkedin group](http://www.linkedin.com/groups/Atlanta-Ruby-Users-Group-106945/about)
 
-== License
+##License
 
 This repo is released under the [MIT License.](MIT-LICENSE.txt)
 
