@@ -150,6 +150,7 @@ DEPENDENCIES
   cane
   dawnscanner
   jquery-rails
+  nokogiri
   overcommit
   rails (= 4.2.5)
   sqlite3

@@ -9,6 +9,7 @@ gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'
 gem 'overcommit'
+gem 'nokogiri'
 
 group :development do
   gem 'dawnscanner', require: false
