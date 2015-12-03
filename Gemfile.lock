@@ -43,6 +43,7 @@ GEM
       parallel
     childprocess (0.5.8)
       ffi (~> 1.0, >= 1.0.11)
+    concurrent-ruby (1.0.0)
     cvss (0.99.0)
     dawnscanner (1.4.2)
       cvss
@@ -68,7 +69,7 @@ GEM
     haml (4.0.7)
       tilt
     i18n (0.7.0)
-    iniparse (1.4.1)
+    iniparse (1.4.2)
     jquery-rails (4.0.5)
       rails-dom-testing (~> 1.0)
       railties (>= 4.2.0)
@@ -124,7 +125,8 @@ GEM
     ruby_parser (3.7.2)
       sexp_processor (~> 4.1)
     sexp_processor (4.6.0)
-    sprockets (3.4.1)
+    sprockets (3.5.0)
+      concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (2.3.3)
       actionpack (>= 3.0)
