@@ -2,7 +2,9 @@ language: ruby
 rvm:
 - 2.3.0-preview2
 before_script: bundle exec rake db:migrate RAILS_ENV=test
-before_install: gem update bundler
+before_install:
+- gem update bundler 
+- rvm install ruby-2.3.0-preview2
 cache: bundler
 notifications:
   email:
