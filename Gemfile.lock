@@ -46,7 +46,7 @@ GEM
       parallel
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
-    concurrent-ruby (1.0.0)
+    concurrent-ruby (1.0.1)
     cvss (0.99.0)
     data_mapper (1.2.0)
       dm-aggregates (~> 1.2.0)
