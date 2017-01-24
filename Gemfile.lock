@@ -143,7 +143,7 @@ GEM
     nio4r (1.2.1)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
-    overcommit (0.37.0)
+    overcommit (0.38.0)
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
     parallel (1.10.0)
@@ -222,4 +222,4 @@ RUBY VERSION
    ruby 2.3.3p222
 
 BUNDLED WITH
-   1.14.2
+   1.14.3
