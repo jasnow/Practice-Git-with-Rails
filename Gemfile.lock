@@ -49,7 +49,7 @@ GEM
       parallel
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
-    concurrent-ruby (1.0.4)
+    concurrent-ruby (1.0.5)
     cvss (0.99.0)
     data_mapper (1.2.0)
       dm-aggregates (~> 1.2.0)
@@ -197,7 +197,7 @@ GEM
     tilt (2.0.6)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.4)
+    uglifier (3.1.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.1.3)
     uuidtools (2.1.5)
