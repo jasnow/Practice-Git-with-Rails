@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '5.1.0.rc1'
 
-ruby '2.4.0'
+ruby '2.4.1'
 
 gem 'sqlite3'
 gem 'uglifier'
