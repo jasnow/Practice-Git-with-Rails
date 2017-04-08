@@ -63,7 +63,7 @@ GEM
       dm-validations (~> 1.2.0)
     data_objects (0.10.17)
       addressable (~> 2.1)
-    dawnscanner (1.6.7)
+    dawnscanner (1.6.8)
       cvss
       data_mapper
       dm-sqlite-adapter
@@ -143,8 +143,8 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
-    overcommit (0.39.0)
-      childprocess (~> 0.6.1)
+    overcommit (0.39.1)
+      childprocess (~> 0.6.3)
       iniparse (~> 1.4)
     parallel (1.11.1)
     ptools (1.3.3)
