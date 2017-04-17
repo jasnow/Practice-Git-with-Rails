@@ -115,8 +115,8 @@ GEM
     execjs (2.7.0)
     fastercsv (1.5.5)
     ffi (1.9.18)
-    globalid (0.3.7)
-      activesupport (>= 4.1.0)
+    globalid (0.4.0)
+      activesupport (>= 4.2.0)
     haml (4.0.7)
       tilt
     i18n (0.8.1)
