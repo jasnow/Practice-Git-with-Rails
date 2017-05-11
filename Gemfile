@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '5.1.0'
+gem 'minitest', '5.10.1' # 5/11/2017: ADDED TO STOP UPGRADE.
 
 ruby '2.4.1'
 
