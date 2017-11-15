@@ -177,7 +177,7 @@ GEM
       method_source
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
-    rake (12.2.1)
+    rake (12.3.0)
     ruby_parser (3.10.1)
       sexp_processor (~> 4.9)
     sexp_processor (4.10.0)
