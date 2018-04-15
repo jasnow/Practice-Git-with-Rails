@@ -152,7 +152,7 @@ GEM
     nio4r (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
-    overcommit (0.44.0)
+    overcommit (0.45.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
     parallel (1.12.1)
