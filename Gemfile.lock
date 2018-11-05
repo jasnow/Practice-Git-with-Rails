@@ -198,7 +198,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.3.13)
     stringex (1.5.1)
-    sys-uname (1.0.3)
+    sys-uname (1.0.4)
       ffi (>= 1.0.0)
     temple (0.8.0)
     terminal-table (1.8.0)
