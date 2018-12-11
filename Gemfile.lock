@@ -69,7 +69,7 @@ GEM
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
-    i18n (1.1.1)
+    i18n (1.2.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
     jquery-rails (4.3.3)
