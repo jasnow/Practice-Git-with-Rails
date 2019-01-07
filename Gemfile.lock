@@ -63,13 +63,13 @@ GEM
       terminal-table
     erubi (1.8.0)
     execjs (2.7.0)
-    ffi (1.9.25)
+    ffi (1.10.0)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
-    i18n (1.4.0)
+    i18n (1.5.1)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
     jquery-rails (4.3.3)
