@@ -4,7 +4,7 @@ gem 'rails', '6.0.0.beta1'
 
 ruby '2.6.1'
 
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13' # 2/6/2019: LOCKED DOWN
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'

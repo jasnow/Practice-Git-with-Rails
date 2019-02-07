@@ -177,7 +177,7 @@ DEPENDENCIES
   nokogiri
   overcommit
   rails (= 6.0.0.beta1)
-  sqlite3
+  sqlite3 (= 1.3.13)
   uglifier
 
 RUBY VERSION
