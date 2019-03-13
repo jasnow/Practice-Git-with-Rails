@@ -1,1 +1,1 @@
-rvm use 2.6.1@ruby2.6-rails6.0 --create
+rvm use 2.6.2@ruby2.6-rails6.0 --create
