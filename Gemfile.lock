@@ -90,7 +90,7 @@ GEM
       thor (>= 0.14, < 2.0)
     justify (1.0.2)
     logger-colors (1.0.0)
-    loofah (2.2.3)
+    loofah (2.3.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
