@@ -13,4 +13,5 @@ gem 'nokogiri'
 
 group :development do
   gem 'dawnscanner', require: false
+  gem 'brakeman'
 end
