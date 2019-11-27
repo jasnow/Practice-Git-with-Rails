@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '6.0.1'
+gem 'rails', '6.0.2.rc1'
 
 ruby '2.7.0'
 
