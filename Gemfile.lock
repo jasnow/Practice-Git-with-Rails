@@ -57,7 +57,7 @@ GEM
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2)
     brakeman (4.7.2)
-    builder (3.2.3)
+    builder (3.2.4)
     cane (3.0.0)
       parallel
     childprocess (3.0.0)
@@ -152,7 +152,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.1)
-    sys-uname (1.1.0)
+    sys-uname (1.1.1)
       ffi (>= 1.0.0)
     temple (0.8.2)
     terminal-table (1.8.0)
