@@ -1,5 +1,5 @@
 rvm:
-- 2.7.0-rc2
+- 2.7.0
 language: ruby
 before_script: bundle exec rake db:migrate RAILS_ENV=test
 #before_install:
