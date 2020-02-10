@@ -143,7 +143,7 @@ GEM
     rake (13.0.1)
     ruby_parser (3.14.2)
       sexp_processor (~> 4.9)
-    sexp_processor (4.14.0)
+    sexp_processor (4.14.1)
     sprockets (4.0.0)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
