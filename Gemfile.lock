@@ -106,7 +106,7 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-    overcommit (0.54.1)
+    overcommit (0.55.0)
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
     parallel (1.19.2)
@@ -168,7 +168,7 @@ GEM
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.3.1)
+    zeitwerk (2.4.0)
 
 PLATFORMS
   ruby
