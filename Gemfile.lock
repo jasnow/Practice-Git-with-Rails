@@ -74,7 +74,7 @@ GEM
       sqlite3
       sys-uname
       terminal-table
-    erubi (1.9.0)
+    erubi (1.10.0)
     execjs (2.7.0)
     ffi (1.13.1)
     globalid (0.4.2)
