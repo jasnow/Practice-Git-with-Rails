@@ -9,7 +9,7 @@ gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'
 gem 'overcommit'
-gem 'nokogiri'
+gem 'nokogiri', '1.11.0.rc4' # 2/2/2021: LOCKED DOWN
 
 group :development do
   gem 'dawnscanner', require: false

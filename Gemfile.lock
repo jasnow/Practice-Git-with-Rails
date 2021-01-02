@@ -86,7 +86,7 @@ GEM
     haml (5.2.1)
       temple (>= 0.8.0)
       tilt
-    i18n (1.8.5)
+    i18n (1.8.6)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     jquery-rails (4.4.0)
@@ -105,16 +105,18 @@ GEM
     method_source (1.0.0)
     mimemagic (0.3.5)
     mini_mime (1.0.2)
-    mini_portile2 (2.4.0)
     minitest (5.14.2)
     nio4r (2.5.4)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.11.0.rc4-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.11.0.rc4-x86_64-linux)
+      racc (~> 1.4)
     overcommit (0.57.0)
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
     parallel (1.20.1)
     ptools (1.4.1)
+    racc (1.5.2)
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -182,7 +184,7 @@ DEPENDENCIES
   cane
   dawnscanner
   jquery-rails
-  nokogiri
+  nokogiri (= 1.11.0.rc4)
   overcommit
   rails (= 6.1.0)
   sqlite3
