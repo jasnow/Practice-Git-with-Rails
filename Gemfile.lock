@@ -86,7 +86,7 @@ GEM
     haml (5.2.1)
       temple (>= 0.8.0)
       tilt
-    i18n (1.8.6)
+    i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     jquery-rails (4.4.0)
@@ -107,9 +107,7 @@ GEM
     mini_mime (1.0.2)
     minitest (5.14.2)
     nio4r (2.5.4)
-    nokogiri (1.11.0.rc4-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.11.0.rc4-x86_64-linux)
+    nokogiri (1.11.0-x86_64-darwin)
       racc (~> 1.4)
     overcommit (0.57.0)
       childprocess (>= 0.6.3, < 5)
@@ -177,14 +175,13 @@ GEM
 
 PLATFORMS
   x86_64-darwin-16
-  x86_64-linux
 
 DEPENDENCIES
   brakeman
   cane
   dawnscanner
   jquery-rails
-  nokogiri (= 1.11.0.rc4)
+  nokogiri
   overcommit
   rails (= 6.1.0)
   sqlite3
