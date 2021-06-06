@@ -65,7 +65,7 @@ GEM
     cane (3.0.0)
       parallel
     childprocess (4.0.0)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     crass (1.0.6)
     cvss (0.99.0)
     dawnscanner (1.6.9)
