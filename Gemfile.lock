@@ -60,7 +60,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-    brakeman (5.1.1)
+    brakeman (5.1.2)
     builder (3.2.4)
     cane (3.0.0)
       parallel
