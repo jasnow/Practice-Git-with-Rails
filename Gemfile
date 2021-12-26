@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '6.1.4.4'
 
-ruby '3.0.3'
+ruby '3.1.0'
 
 gem 'sqlite3'
 gem 'terser'
