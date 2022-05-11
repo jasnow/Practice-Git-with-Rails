@@ -172,7 +172,7 @@ GEM
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
     sqlite3 (1.4.2)
-    strscan (3.0.2)
+    strscan (3.0.3)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.8.2)
