@@ -110,7 +110,7 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
-    minitest (5.15.0)
+    minitest (5.16.0)
     net-imap (0.2.3)
       digest
       net-protocol
@@ -171,7 +171,7 @@ GEM
     ruby_parser (3.19.1)
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
-    sqlite3 (1.4.3)
+    sqlite3 (1.4.4)
     strscan (3.0.3)
     sys-uname (1.2.2)
       ffi (~> 1.1)
