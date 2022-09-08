@@ -171,7 +171,8 @@ GEM
     ruby_parser (3.19.1)
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
-    sqlite3 (1.4.4)
+    sqlite3 (1.5.0-x86_64-darwin)
+    sqlite3 (1.5.0-x86_64-linux)
     strscan (3.0.4)
     sys-uname (1.2.2)
       ffi (~> 1.1)
@@ -210,4 +211,4 @@ RUBY VERSION
    ruby 3.1.2p20
 
 BUNDLED WITH
-   2.3.21
+   2.3.22
