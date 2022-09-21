@@ -90,8 +90,9 @@ GEM
     ffi (1.15.5)
     globalid (1.0.0)
       activesupport (>= 5.0)
-    haml (5.2.2)
-      temple (>= 0.8.0)
+    haml (6.0.0)
+      temple (>= 0.8.2)
+      thor
       tilt
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
