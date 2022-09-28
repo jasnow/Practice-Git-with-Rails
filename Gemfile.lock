@@ -84,13 +84,12 @@ GEM
       sqlite3
       sys-uname
       terminal-table
-    digest (3.1.0)
     erubi (1.11.0)
     execjs (2.8.1)
     ffi (1.15.5)
     globalid (1.0.0)
       activesupport (>= 5.0)
-    haml (6.0.1)
+    haml (6.0.3)
       temple (>= 0.8.2)
       thor
       tilt
@@ -112,20 +111,14 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.2)
     minitest (5.16.3)
-    net-imap (0.2.3)
-      digest
+    net-imap (0.3.0)
       net-protocol
-      strscan
-    net-pop (0.1.1)
-      digest
+    net-pop (0.1.2)
       net-protocol
-      timeout
     net-protocol (0.1.3)
       timeout
-    net-smtp (0.3.1)
-      digest
+    net-smtp (0.3.2)
       net-protocol
-      timeout
     nio4r (2.5.8)
     nokogiri (1.13.8-x86_64-darwin)
       racc (~> 1.4)
@@ -174,7 +167,6 @@ GEM
     sexp_processor (4.16.1)
     sqlite3 (1.5.0-x86_64-darwin)
     sqlite3 (1.5.0-x86_64-linux)
-    strscan (3.0.4)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.8.2)
