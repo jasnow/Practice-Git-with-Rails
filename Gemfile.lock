@@ -110,6 +110,7 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
+    mini_portile2 (2.8.0)
     minitest (5.16.3)
     net-imap (0.3.1)
       net-protocol
@@ -120,9 +121,8 @@ GEM
     net-smtp (0.3.3)
       net-protocol
     nio4r (2.5.8)
-    nokogiri (1.13.9-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.13.9-x86_64-linux)
+    nokogiri (1.13.9)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     overcommit (0.59.1)
       childprocess (>= 0.6.3, < 5)
@@ -165,8 +165,8 @@ GEM
     ruby_parser (3.19.1)
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
-    sqlite3 (1.5.3-x86_64-darwin)
-    sqlite3 (1.5.3-x86_64-linux)
+    sqlite3 (1.5.3)
+      mini_portile2 (~> 2.8.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.9.1)
@@ -201,7 +201,7 @@ DEPENDENCIES
   terser
 
 RUBY VERSION
-   ruby 3.1.2p20
+   ruby 3.2.0.preview3
 
 BUNDLED WITH
-   2.3.25
+   2.4.0.dev
