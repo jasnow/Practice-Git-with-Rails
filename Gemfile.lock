@@ -165,7 +165,7 @@ GEM
     ruby_parser (3.19.1)
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
-    sqlite3 (1.5.3)
+    sqlite3 (1.5.4)
       mini_portile2 (~> 2.8.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
