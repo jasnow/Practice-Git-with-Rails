@@ -89,7 +89,7 @@ GEM
     ffi (1.15.5)
     globalid (1.0.0)
       activesupport (>= 5.0)
-    haml (6.0.11)
+    haml (6.0.12)
       temple (>= 0.8.2)
       thor
       tilt
@@ -129,7 +129,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.22.1)
-    ptools (1.4.2)
+    ptools (1.4.3)
     racc (1.6.0)
     rack (2.2.4)
     rack-test (2.0.2)
