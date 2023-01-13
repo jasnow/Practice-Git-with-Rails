@@ -114,7 +114,6 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
-    mini_portile2 (2.8.1)
     minitest (5.17.0)
     net-imap (0.3.4)
       date
@@ -171,8 +170,8 @@ GEM
     ruby_parser (3.19.2)
       sexp_processor (~> 4.16)
     sexp_processor (4.16.1)
-    sqlite3 (1.5.4)
-      mini_portile2 (~> 2.8.0)
+    sqlite3 (1.6.0-x86_64-darwin)
+    sqlite3 (1.6.0-x86_64-linux)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.9.1)
