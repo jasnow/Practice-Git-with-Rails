@@ -26,7 +26,7 @@ My References:
 Welcome to my practice git repository where you can change up as much as
 you'd like plus work with a real, living, breathing person on the other side.
 Here we learn all things git. Feel free to send me Pull Requests just
-to discover what it's like when a Repo Master asks you.
+to discover what it's like when a Repo Maintainer asks you.
 
 <blockquote>
 "Can you squash your commits for us"
@@ -54,7 +54,7 @@ It's all good yo! Learning is the prize in this game.
 ``git fetch upstream``
 * Pulls in the remote changes not present in your local repo. Downloads objects and references from another repository.
 
-``git merge upstream/master``
+``git merge upstream/main``
 * Merges any changes fetched into your working files
 
 ``git add <file>``
@@ -162,7 +162,7 @@ Makes a new branch
 Switching branch and on a different timeline
 
 ``git merge <branch>``
-Merges branch into master
+Merges branch into main
 
 ``git branch -d <branch name>``
 Deletes branch
@@ -174,7 +174,7 @@ VI Editor Quick Key Exit
 ``:wq + enter``
 
 ##Pushing &amp; Pulling
-``git push -u origin master (remote repo name, local branch name) -u``
+``git push -u origin main (remote repo name, local branch name) -u``
 Lets you just run git push later on without specifying name and branch
 
 ``git pull``
@@ -203,7 +203,7 @@ Deletes the branch locally if it has been removed remotely. Helps to remove stal
 "Merge commits are bad"
 
 ``git rebase``
-Move all changes to master local which are not in origin/master remote to a temporary area
+Move all changes to main local which are not in origin/main remote to a temporary area
 
 ##History
 ``git log``
