@@ -10,6 +10,8 @@ gem "jquery-rails"
 gem "cane"
 gem "overcommit"
 gem "nokogiri"
+gem "webrick"
+gem "sprockets-rails"
 
 group :development do
   gem "dawnscanner", require: false
