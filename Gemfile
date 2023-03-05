@@ -18,6 +18,7 @@ group :development do
   gem "brakeman"
 end
 
+gem 'simplecov', require: false, group: :test
 gem "standard", group: [:development, :test]
 gem "ruby_audit"
 gem "spektr"
