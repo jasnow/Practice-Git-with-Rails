@@ -141,7 +141,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.22.1)
-    parser (3.2.1.1)
+    parser (3.2.2.0)
       ast (~> 2.4.1)
     pastel (0.8.0)
       tty-color (~> 0.5)
@@ -231,7 +231,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.6.2-x86_64-darwin)
     sqlite3 (1.6.2-x86_64-linux)
-    standard (1.25.3)
+    standard (1.25.5)
       language_server-protocol (~> 3.17.0.2)
       rubocop (~> 1.48.1)
       rubocop-performance (~> 1.16.0)
@@ -292,7 +292,7 @@ DEPENDENCIES
   webrick
 
 RUBY VERSION
-   ruby 3.2.1p31
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.4.10
