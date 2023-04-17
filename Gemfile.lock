@@ -79,7 +79,7 @@ GEM
     crass (1.0.6)
     cvss (0.99.0)
     date (3.3.3)
-    dawnscanner (2.1.0)
+    dawnscanner (2.1.1)
       cvss
       haml
       justify
@@ -181,7 +181,7 @@ GEM
       zeitwerk (~> 2.5)
     rainbow (3.1.1)
     rake (13.0.6)
-    regexp_parser (2.7.0)
+    regexp_parser (2.8.0)
     rexml (3.2.5)
     rubocop (1.48.1)
       json (~> 2.3)
