@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
-gem "rails", "7.0.4.3"
+gem "rails", "8.1.3"
 
-ruby "3.2.2"
+ruby "4.0.2"
 
+gem "ostruct"
 gem "sqlite3"
 gem "terser"
 gem "jquery-rails"
