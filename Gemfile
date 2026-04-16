@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem "rails", "8.1.3"
 
-ruby "4.0.2"
-
 gem "ostruct"
 gem "sqlite3"
 gem "terser"
