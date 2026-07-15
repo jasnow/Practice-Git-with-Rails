@@ -1,1 +1,1 @@
-rvm use ruby-4.0.5@ruby4.0-rails8.1 --create
+rvm use ruby-4.0.6@ruby4.0-rails8.1 --create
